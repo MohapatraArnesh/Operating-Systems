@@ -1,2 +1,3 @@
 One of the operating system functions is applications. Applications are made to be run on one operating system and utilize its resources. An example of this would be like using a BMW engine in a Dodge truck. 
 Another key operating system function is the CPU management. This is crucial in managing the resources delegated by the central processing unit, memory and disk drives. Cpu and memory resources must be managed according to the operating system.
+Another key operating system function is establishing the user interface. When you call into action a software the user interface and operating system will help to provide the execution of then software. These are just some of the key aspects of operating systems. 
